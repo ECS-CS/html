@@ -26,7 +26,7 @@
 
 ## ANATOMY OF AN HTML ELEMENT
 
-1.  In CodePen.io in the **HTML** section lets type:
+1.  In https://codepen.io/pen/ in the **HTML** section lets type:
 
 ```html
 My cat is very grumpy
