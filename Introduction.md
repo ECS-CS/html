@@ -154,4 +154,4 @@ An ordered list with 4 items. Each item is contained in a <li></li>
 ### QUESTIONS 🚨
 
 1.  What are two examples of HTML tags?
-2.  What is another name for the starting tag?
+2.  What are the 3 components that make up a HTML element?
