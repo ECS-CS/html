@@ -63,7 +63,7 @@ You do however need to make sure that your elements are properly nested: in the 
 <p>My cat is <strong>very grumpy.</p></strong>
 ```
 
-The **elements have to open and close correctly**, so they are clearly inside or outside one another. **So don't do it!**
+The **elements have to open and close correctly**, so they are clearly inside or outside one another.
 
 ## A SIMPLE HTML DOCUMENT
 
