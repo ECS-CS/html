@@ -14,8 +14,7 @@
 1.  Define HTML.
 2.  What does a HTML element consist of?
 3.  What are examples of HTML tags?
-4.  How do we make text bold?
-5.  How many header styles are available?
+4.  Where do our HTML elements live?
 
 ## OPENING EXERCISE (10 MINS)
 
@@ -75,7 +74,8 @@ The **elements have to open and close correctly**, so they are clearly inside or
 </head>
 <body>
 
-/* THIS IS WHERE YOU WRITE YOUR HTML ELEMENTS */
+<!–– THIS IS WHERE YOUR HTML ELEMENTS LIVE ––>
+<!–– BETWEEN THE <body></body> TAGS ––>
 
 </body>
 </html>
@@ -91,58 +91,58 @@ The **elements have to open and close correctly**, so they are clearly inside or
 
 ## 🚨 INDEPENDENT ACTIVITY 🚨
 
-## CONSTRUCT A HTML DOCUMENT ABOUT YOURSELF. WRITE A PARAGRAPH ABOUT YOURSELF, USING THE HTML TAGS WE LEARNED OR ANY OTHER TAGS YOU MAY KNOW. BELOW ARE MORE EXAMPLES OF HTML TAGS. RAISE YOUR HAND IF YOU NEED HELP.
+### USING THE HTML DOCUMENT ABOVE: WRITE A PARAGRAPH ABOUT YOURSELF (BETWEEN THE <body></body> tags), USING THE HTML TAGS WE LEARNED (BELOW WE HAVE MORE EXAMPLES OF HTML TAGS) OR ANY OTHER TAGS YOU MAY KNOW. 🙋 RAISE YOUR HAND IF YOU NEED HELP.
 
 ## MORE EXAMPLES OF HTML TAGS
 
 ```html
-<h1>, <h2>, <h3>, <h4>, <h5>, <h6>
 The HTML <h1>–<h6> elements represent six levels of section headings. <h1> is the highest section level and <h6> is the lowest.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>
 ```
 
 ```html
-<s>
 Renders text with a strikethrough, or a line through it.
+<s>
 ```
 
 ```html
-<small>
 Defines smaller text
+<small>
 ```
 
 ```html
+Defines important text (bold)
 <strong> or <b>
-Defines important text
 ```
 
 ```html
-<em>
 Italic
+<em>
 ```
 
 ```html
-<u>
 Underline
+<u>
 ```
 
 ```html
+An unordered list with 4 items. Each item is contained in a <li></li>
 <ul>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 </ul>
-An unordered list with 4 items. Each item is contained in a <li></li>
 ```
 
 ```html
+An ordered list with 4 items. Each item is contained in a <li></li>
 <ol>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 </ol>
-An ordered list with 4 items. Each item is contained in a <li></li>
 ```
 
 ## REVIEW OF HTML ELEMENTS
@@ -153,5 +153,5 @@ An ordered list with 4 items. Each item is contained in a <li></li>
 
 ### QUESTIONS 🚨
 
-1.  What are two examples of HTML tags?
-2.  What are the 3 components that make up a HTML element?
+1.  What are examples of HTML tags?
+2.  What are the **3** components that make up a HTML element?
