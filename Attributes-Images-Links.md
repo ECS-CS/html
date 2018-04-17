@@ -25,7 +25,7 @@ Elements can also have attributes, which look like this:
 
 # LINKS (HYPERLINKS)
 
-Another example of an element is <a> — this stands for **"anchor"** and will make the piece of text it wraps around into a **hyperlink**. This can take a number of attributes:
+Another example of an element is `<a>` — this stands for **"anchor"** and will make the piece of text it wraps around into a **hyperlink**. This can take a number of attributes:
 
 1.  **href:** This attribute specifies the web address that you want the link to go to; where the browser navigates to when the link is clicked. For example, **href="https://www.google.com/"**.
 2.  **title:** The title attribute specifies extra information about the link. For example, **title="Google"**. This will appear as a tooltip when hovered over.
@@ -35,7 +35,7 @@ Another example of an element is <a> — this stands for **"anchor"** and will m
 
 Images can improve the design and the appearance of a web page. In HTML, images are defined with the <img> tag.
 
-1.  The <img> tag is empty, it contains attributes only, **and does not have a closing tag**.
+1.  The `<img>` tag is empty, it contains attributes only, **and does not have a closing tag**.
 2.  The **src** attribute specifies the URL (web address) of the image:
 
 ```html
