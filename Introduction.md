@@ -83,11 +83,11 @@ The **elements have to open and close correctly**, so they are clearly inside or
 
 ### DOCUMENT EXPLAINED
 
-* The `<!DOCTYPE html>` declaration defines this document to be HTML5
-* The `<html>` tag is the root element of a HTML page
-* The `<head>` tag contains meta information about the document
-* The `<title>` tag specifies a title for the document
-* The `<body>` tag contains the visible page content
+* The `<!DOCTYPE html>` declaration defines this document to be HTML5.
+* The `<html>` tag wraps all the content on the entire page, and is sometimes known as the root element.
+* The `<head>` tag acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers.
+* The `<title>` tag sets the title of your page, which is the title that appears in the browser tab the page is loaded in, and is used to describe the page when you bookmark/favorite it.
+* The `<body>` tag contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
 
 ## 🚨 INDEPENDENT ACTIVITY 🚨
 
@@ -151,7 +151,7 @@ An ordered list with 4 items. Each item is contained in a <li></li>
 * The first tag (opening tag) in a pair is the start tag, the second tag (closing tag) is the end tag.
 * The end tag is written like the start tag, but with a **forward slash inserted before the tag name**.
 
-### QUESTIONS 🚨
+### CLOSING QUESTIONS 🚨
 
 1.  What are examples of HTML tags?
 2.  What are the **3** components that make up a HTML element?
