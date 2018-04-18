@@ -16,7 +16,7 @@
 
 Elements can also have attributes, which look like this:
 
-![HTML Attributes](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png)
+![HTML Attributes](/assets/html_attributes__p.jpg)
 
 **Attributes contain extra information about the element which you don't want to appear in the actual content.** In this case, the **class** attribute allows you to give the element an identifying name that can be later used to target the element with style information. (We will dive into this further soon)
 
@@ -24,13 +24,15 @@ Elements can also have attributes, which look like this:
 
 1.  A space between it and the element name (or the previous attribute, if the element already has one or more attributes)
 2.  Attributes are always specified in the **start tag**.
-3.  Attributes usually come in name/value pairs like: **name="value"**
+3.  Attributes usually come in name/value pairs like: **attribute name="value"**
 
 Full List of HTML Attributes: https://www.w3schools.com/tags/ref_attributes.asp
 
 * **HTML attributes vary per the Element.** In other words, certain attributes don't work for every HTML element.
 
 # LINKS (HYPERLINKS)
+
+![HTML Attributes](/assets/html_attributes__link.png)
 
 Another example of an element is `<a>` — this stands for **"anchor"** and will make the piece of text it wraps around into a **hyperlink**. This can take a number of attributes:
 
@@ -39,6 +41,8 @@ Another example of an element is `<a>` — this stands for **"anchor"** and will
 3.  **target:** The target attribute specifies the browsing context which will be used to display the link. For example, **target="\_blank"** will display the link in a new tab. If you want to display the link in the current tab just omit this attribute.
 
 # IMAGES
+
+![HTML Attributes](/assets/html_attributes__image.jpg)
 
 Images can improve the design and the appearance of a web page. In HTML, images are defined with the <img> tag.
 
@@ -62,8 +66,8 @@ Images can improve the design and the appearance of a web page. In HTML, images 
 
 1.  Go on google, find an image you like
 2.  Get the image's URL (Right click on Image > Copy Image Address)
-3.  Remember the image URL ends with an image extension (.jpg, .gif, .png, etc..)
-4.  Don't forget to include all neccessary attributes.
+3.  Remember the image URL ends with an image extension (.jpg, .gif, .png)
+4.  **Don't forget to include all neccessary attributes.**
 
 ## Creating your first link
 
@@ -75,7 +79,7 @@ Images can improve the design and the appearance of a web page. In HTML, images 
 
 1.  Attributes contain extra information about the element.
 2.  Attributes are always specified in the **start tag**.
-3.  Attributes usually come in name/value pairs like: **name="value"**
+3.  Attributes usually come in name/value pairs like: **attribute name="value"**
 4.  The `<img>` tag is empty, it contains attributes only, **and does not have a closing tag**.
 
 # CLOSING QUESTIONS 🚨

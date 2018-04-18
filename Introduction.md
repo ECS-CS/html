@@ -1,5 +1,9 @@
 # Introduction to HTML
 
+The general structure of every webpage we've vistied.
+
+1.  HTML
+
 ![Webpage Cake](https://mdn.mozillademos.org/files/13502/cake.png)
 
 # DO NOW (5-10 MINS)
@@ -12,7 +16,7 @@
 1.  Define HTML.
 2.  What does a HTML element consist of?
 3.  What are examples of HTML tags?
-4.  Where do our HTML elements live?
+4.  Where do our HTML elements live? (between which tags)
 
 # HTML DEFINED
 
