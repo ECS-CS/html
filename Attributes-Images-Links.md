@@ -1,16 +1,16 @@
+# DO NOW (5-10 MINS)
+
+## Choose a typing exercise:
+
+1.  General: https://www.typingtest.com/test.html?minutes=2&textfile=oz.txt
+2.  Coding: http://www.speedcoder.net/lessons/html/1/
+
 # OBJECTIVE
 
 1.  What are HTML attributes?
 2.  What are anchor tags and how do we use them?
 3.  How do we include images on our webpage?
-4.  Do Image tags have closing tags?
-
-# DO NOW (5-10 MINS)
-
-**Choose a typing exercise:**
-
-1.  General: https://www.typingtest.com/test.html?minutes=2&textfile=oz.txt
-2.  Coding: http://www.speedcoder.net/lessons/html/1/
+4.  Do image tags have closing tags?
 
 # HTML ATTRIBUTES
 

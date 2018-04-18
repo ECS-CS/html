@@ -1,15 +1,25 @@
-# Introduction to HTML
-
-The general structure of every webpage we've vistied.
-
-1.  HTML
-
-![Webpage Cake](https://mdn.mozillademos.org/files/13502/cake.png)
-
 # DO NOW (5-10 MINS)
 
 1.  Let's warm up our fingers with a general typing exercise: https://www.typingtest.com/test.html?minutes=2&textfile=oz.txt
 2.  Now, lets do a HTML typing exercise: http://www.speedcoder.net/lessons/html/1/
+
+# Introduction to HTML
+
+## The three core technologies of the World Wide Web.
+
+![Webpage Cake](https://mdn.mozillademos.org/files/13502/cake.png)
+
+## HTML
+
+* The fundamental technology used to define the structure of a webpage.
+
+## CSS
+
+* CSS is the language that describes the style of an HTML document. CSS describes how HTML elements should be displayed.
+
+## Javascript
+
+* It is used to make dynamic webpages interactive and provide online programs, including video games.
 
 # OBJECTIVE
 
