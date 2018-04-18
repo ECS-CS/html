@@ -1,15 +1,18 @@
-## OBJECTIVE
+# OBJECTIVE
 
 1.  What are HTML attributes?
 2.  What are anchor tags and how do we use them?
 3.  How do we include images on our webpage?
+4.  Do Image tags have closing tags?
 
-## OPENING EXERCISE (5-10 MINS)
+# DO NOW (5-10 MINS)
 
-1.  Let's warm up our fingers with a general typing exercise: https://www.typingtest.com/test.html?minutes=2&textfile=oz.txt
-2.  Now, lets do a HTML typing exercise: http://www.speedcoder.net/lessons/html/1/
+**Choose a typing exercise:**
 
-# ATTRIBUTES
+1.  General: https://www.typingtest.com/test.html?minutes=2&textfile=oz.txt
+2.  Coding: http://www.speedcoder.net/lessons/html/1/
+
+# HTML ATTRIBUTES
 
 Elements can also have attributes, which look like this:
 
@@ -20,8 +23,12 @@ Elements can also have attributes, which look like this:
 **An attribute should have:**
 
 1.  A space between it and the element name (or the previous attribute, if the element already has one or more attributes)
-2.  The attribute name, **followed by an equals sign**.
-3.  An attribute value, **with opening and closing quote marks wrapped around it**.
+2.  Attributes are always specified in the **start tag**.
+3.  Attributes usually come in name/value pairs like: **name="value"**
+
+Full List of HTML Attributes: https://www.w3schools.com/tags/ref_attributes.asp
+
+* **HTML attributes vary per the Element.** In other words, certain attributes don't work for every HTML element.
 
 # LINKS (HYPERLINKS)
 
@@ -49,13 +56,35 @@ Images can improve the design and the appearance of a web page. In HTML, images 
 <img src="url" alt="Description of Image">
 ```
 
-## 🚨 INDEPENDENT ACTIVITY 🚨
+# 🚨 INDEPENDENT ACTIVITY 🚨
 
-## REVIEW OF HTML ATTRIBUTES, IMAGES, LINKS
+## Lets practice adding images
 
-\*
+1.  Go on google, find an image you like
+2.  Get the image's URL (Right click on Image > Copy Image Address)
+3.  Remember the image URL ends with an image extension (.jpg, .gif, .png, etc..)
+4.  Don't forget to include all neccessary attributes.
 
-### CLOSING QUESTIONS 🚨
+## Creating your first link
+
+1.  Let's create a link to our favorite website. How would we make this link open in a new tab? Add the correct attribute.
+
+##
+
+# REVIEW OF HTML ATTRIBUTES, IMAGES, LINKS
+
+1.  Attributes contain extra information about the element.
+2.  Attributes are always specified in the **start tag**.
+3.  Attributes usually come in name/value pairs like: **name="value"**
+4.  The `<img>` tag is empty, it contains attributes only, **and does not have a closing tag**.
+
+# CLOSING QUESTIONS 🚨
 
 1.  What are HTML attributes?
 2.  What are some examples of HTML attributes, and what element do they belong to?
+3.  What is an anchor `(<a></a>)` tag?
+
+# LEARNING RESOURCES
+
+1.  Full List of HTML Attributes: https://www.w3schools.com/tags/ref_attributes.asp
+2.  Learn HTML: https://www.w3schools.com/html/default.asp
