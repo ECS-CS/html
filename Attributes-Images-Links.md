@@ -18,7 +18,7 @@ Elements can also have attributes, which look like this:
 
 ![HTML Attributes](/assets/html_attributes__p.jpg)
 
-**Attributes contain extra information about the element which you don't want to appear in the actual content.** In this case, the **class** attribute allows you to give the element an identifying name that can be later used to target the element with style information. (We will dive into this further soon)
+**Attributes contain extra information about the element which you don't want to appear in the actual content.** In this case, the **align** attribute allows us to change the alignment of the paragraph's content. For example, this paragraph will align to the right.
 
 **An attribute should have:**
 
@@ -44,7 +44,7 @@ Another example of an element is `<a>` — this stands for **"anchor"** and will
 
 ![HTML Attributes](/assets/html_attributes__image.jpg)
 
-Images can improve the design and the appearance of a web page. In HTML, images are defined with the <img> tag.
+Images can improve the design and the appearance of a web page. In HTML, images are defined with the `<img>` tag.
 
 1.  The `<img>` tag is empty, it contains attributes only, **and does not have a closing tag**.
 2.  The **src** attribute specifies the URL (web address) of the image:
