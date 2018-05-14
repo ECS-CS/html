@@ -95,7 +95,7 @@ The ONLY way to learn CSS is by practicing and playing around with properties. C
 
 ## STEP 1
 
-We are styling the `<div>` element by giving it a background-image, height a font-size, and a font color.
+We are styling the `<div>` element by giving it a background-image, height, font-size, and a font color.
 
 We will **target** the `<div>` we created in Step 2 of HTML by doing the following:
 
@@ -234,4 +234,4 @@ If for any reason you loss your code, or came late to class, here is what you sh
 
 # EXTENDED CLASS HOURS
 
-1.  If for any reason you need more time to work on an assignment, we are available to work with you directly during lunch or after school until 6PM.
+## If for any reason you need more time to work on an assignment, we are available to work with you directly during lunch or after school until 6PM.
