@@ -47,7 +47,7 @@ Inside the `<body></body>` tags, lets add the following:
 
 ## STEP 3
 
-Under the `<div>` but before the closing `</header>` tag we created in Step 2, lets copy and paste the `<nav>` tags and it's contents.
+After the closing `</div>` tag but before the closing `</header>` tag we created in Step 2, lets copy and paste the `<nav>` tags and it's contents.
 
 1.  `<nav>`: defines a set of navigation links.
 2.  `<ul>`: defines an unordered (bulleted) list.
@@ -95,7 +95,7 @@ The ONLY way to learn CSS is by practicing and playing around with properties. C
 
 ## STEP 1
 
-We will **target** the `<div>` we created in Step 1 of HTML by doing the following:
+We will **target** the `<div>` we created in Step 2 of HTML by doing the following:
 
 We are styling the `<div>` by giving it a background-image, height and a font-size.
 
