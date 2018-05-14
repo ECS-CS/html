@@ -1,6 +1,6 @@
-# CAPSTONE PROJECT: WEEK 1, DAY 1.
+# 📌 CAPSTONE PROJECT: WEEK 1, DAY 1.
 
-# DO NOW
+# DO NOW 🔊
 
 1.  BE QUIET
 2.  GIVE YOUR INSTRUCTOR YOUR ATTENTION
@@ -95,13 +95,15 @@ The ONLY way to learn CSS is by practicing and playing around with properties. C
 
 ## STEP 1
 
-We will **target** the `<div>` we created in Step 2 of HTML by doing the following:
+We are styling the `<div>` element by giving it a background-image, height a font-size, and a font color.
 
-We are styling the `<div>` by giving it a background-image, height and a font-size.
+We will **target** the `<div>` we created in Step 2 of HTML by doing the following:
 
 **Now, lets right click on this link and open in a new tab:**
 
 🚨 https://www.w3schools.com/cssref/
+
+## W3Schools is a great resource that will teach us CSS/HTML. It will show us the possible values for the CSS properties we defined below.
 
 ```css
 div {
@@ -120,7 +122,7 @@ div {
 
 ## STEP 2
 
-Copy and Paste the remaining CSS into the CSS section of CodePen.
+Copy and Paste the remaining CSS into the CSS section of CodePen. (AFTER what you had before)
 
 In this segment, we are targeting the `<nav>`, `<ul>`, and `<li>` tags and adding styles to them.
 
@@ -219,9 +221,17 @@ To receive full credit for this part of your Capstone Project, you will have to 
 
 # FINISHED CODE
 
-https://codepen.io/GainorB/pen/yjqNoy
+If for any reason you loss your code, or came late to class, here is what you should have after finishing the lesson:
+
+## https://codepen.io/GainorB/pen/yjqNoy
+
+# 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨
 
 # LEARNING RESOURCES
 
 1.  Learn HTML: https://www.w3schools.com/html/default.asp
 2.  Learn CSS: https://www.w3schools.com/css/default.asp
+
+# EXTENDED CLASS HOURS
+
+1.  If for any reason you need more time to work on an assignment, we are available to work with you directly during lunch or after school until 6PM.
