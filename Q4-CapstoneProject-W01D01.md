@@ -3,7 +3,7 @@
 1.  BE QUIET
 2.  GIVE YOUR INSTRUCTOR YOUR ATTENTION
 3.  OPEN **CODEPEN.IO** AND SIGN IN
-4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK 'Q4-CapstoneProject-W01D01.md'
+4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Q4-CapstoneProject-W01D01.md**
 5.  YOU SHOULD HAVE TWO TABS OPENED
 
 # HTML
@@ -80,13 +80,15 @@ If you completed every step correctly, our HTML document should look like this. 
 
 # CSS
 
-The ONLY way to learn CSS is by practicing and playing around with attribute values. CSS describes how our HTML elements look in the browser.
+The ONLY way to learn CSS is by practicing and playing around with properties. CSS describes how our HTML elements look in the browser by targeting the HTML elements we created.
 
 # STEP 1
 
 We will **target** the `<div>` we created in Step 1 of HTML by doing the following:
 
 We are styling the `<div>` by giving it a background-image, height and a font-size.
+
+**Now, lets right click on this link and open in a new tab:**
 
 🚨 https://www.w3schools.com/cssref/
 
@@ -111,11 +113,13 @@ Copy and Paste the remaining CSS into the CSS section of CodePen.
 
 In this segment, we are targeting the `<nav>`, `<ul>`, and `<li>` tags and adding styles to them.
 
+For example, we gave the `<nav>` element a lightgrey background, and when the text is hovered, we change the background color to white.
+
 ```css
 nav {
   margin-top: 5px;
   width: 100%;
-  background: lightgrey;
+  background-color: lightgrey;
 }
 
 ul {
@@ -205,3 +209,4 @@ To receive full credit for this part of your Capstone Project, you will have to 
 # LEARNING RESOURCES
 
 1.  Learn HTML: https://www.w3schools.com/html/default.asp
+2.  Learn CSS: https://www.w3schools.com/css/default.asp
