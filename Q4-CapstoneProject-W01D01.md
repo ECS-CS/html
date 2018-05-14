@@ -1,4 +1,4 @@
-# Capstone Project: Week 1, Day 1.
+# CAPSTONE PROJECT: WEEK 1, DAY 1.
 
 # DO NOW
 
@@ -13,7 +13,7 @@
 1.  We have 4 full weeks remaining in the 4th Quarter.
 2.  Every class, we will tackle a piece of our Capstone Project.
 3.  After every class, if you don't finish the **DELIVERABLE** it will become **HOMEWORK**, which is due two days from class at 6PM.
-4.  Therefore at the end of the quarter you will have 4 TEST grades, that will get averaged to form your Capstone Grade.
+4.  Therefore at the end of the quarter you will have 4 TEST grades, that will get averaged to form your Capstone Grade, resulting in 5 grades for the quarter.
 
 # HTML (10 MINS)
 
@@ -23,10 +23,12 @@ A couple weeks ago, we learned that every webpage has this structure. Let's type
 
 ```html
 <html>
-<header>
-<title>My Webpage Title</title>
-<body>
-</body>
+  <head>
+    <title>My Webpage Title</title>
+  </head>
+  <body>
+
+  </body>
 </html>
 ```
 
@@ -68,22 +70,22 @@ If you completed every step correctly, our HTML document should look like this. 
 
 ```html
 <html>
-<head>
-<title>My Webpage Title</title>
-</head>
-<body>
-<header>
-  <div>Mr. Bostwick's Blog</div>
-  <nav>
-    <ul>
-      <li>Home</li>
-      <li>About</li>
-      <li>Projects</li>
-      <li>Contact Me</li>
-    </ul>
-  </nav>
-</header>
-</body>
+  <head>
+    <title>My Webpage Title</title>
+  </head>
+  <body>
+    <header>
+      <div>Mr. Bostwick's Blog</div>
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Projects</li>
+          <li>Contact Me</li>
+        </ul>
+      </nav>
+    </header>
+  </body>
 </html>
 ```
 
