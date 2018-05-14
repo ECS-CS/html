@@ -1,3 +1,5 @@
+# Capstone Project: Week 1, Day 1.
+
 # DO NOW
 
 1.  BE QUIET
