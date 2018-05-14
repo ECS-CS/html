@@ -8,7 +8,7 @@
 
 # HTML
 
-# STEP 1:
+## STEP 1:
 
 A couple weeks ago, we learned that every webpage has this structure. Let's type this in the **HTML section** in CodePen.
 
@@ -21,7 +21,7 @@ A couple weeks ago, we learned that every webpage has this structure. Let's type
 </html>
 ```
 
-# STEP 2
+## STEP 2
 
 Inside the `<body></body>` tags, lets add the following:
 
@@ -34,7 +34,7 @@ Inside the `<body></body>` tags, lets add the following:
 </header>
 ```
 
-# STEP 3
+## STEP 3
 
 Under the `<div>` but before the closing `</header>` tag we created in Step 2, lets copy and paste the `<nav>` tags and it's contents.
 
@@ -53,7 +53,7 @@ Under the `<div>` but before the closing `</header>` tag we created in Step 2, l
   </nav>
 ```
 
-# FIN
+## FIN
 
 If you completed every step correctly, our HTML document should look like this. All of this code, should be in the **HTML** section in CodePen.
 
@@ -82,7 +82,7 @@ If you completed every step correctly, our HTML document should look like this. 
 
 The ONLY way to learn CSS is by practicing and playing around with properties. CSS describes how our HTML elements look in the browser by targeting the HTML elements we created.
 
-# STEP 1
+## STEP 1
 
 We will **target** the `<div>` we created in Step 1 of HTML by doing the following:
 
@@ -107,7 +107,7 @@ div {
 }
 ```
 
-# STEP 2
+## STEP 2
 
 Copy and Paste the remaining CSS into the CSS section of CodePen.
 
@@ -142,7 +142,7 @@ ul li:hover {
 }
 ```
 
-# FIN
+## FIN
 
 If you completed every step correctly, our CSS stylesheet should look like this. All of this code, should be in the **CSS** section in CodePen.
 
