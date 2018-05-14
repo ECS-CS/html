@@ -209,12 +209,12 @@ To receive full credit for this part of your Capstone Project, you will have to 
 
 1.  Update the Header image. Using google, find your own header image (Remember you need the **Image Address**). You can change the **height** of the div to fit your image.
 2.  Update the title of your webpage (the text between `<title></title>` tags).
+3.  Change the header text from "Mr. Bostwick's Blog"
 
 ## CSS CHANGES
 
 (These changes will be in the **CSS section of CodePen**)
 
-3.  Change the header text from "Mr. Bostwick's Blog"
 4.  Change the 'font-size' of the `<div>`.
 5.  Change the background color of the `<nav>` element.
 6.  Change the :hover color of navbar. **(HINT: look at ul li:hover {})**
