@@ -6,7 +6,14 @@
 4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Q4-CapstoneProject-W01D01.md**
 5.  YOU SHOULD HAVE TWO TABS OPENED
 
-# HTML
+# STRUCTURE OF THE 4TH QUARTER
+
+1.  We have 4 full weeks remaining in the 4th Quarter.
+2.  Every class, we will tackle a piece of our Capstone Project.
+3.  After every class, if you don't finish the **DELIVERABLE** it will become **HOMEWORK**, which is due two days from class at 6PM.
+4.  Therefore at the end of the quarter you will have 4 TEST grades, that will get averaged to form your Capstone Grade.
+
+# HTML (10 MINS)
 
 ## STEP 1:
 
@@ -78,7 +85,7 @@ If you completed every step correctly, our HTML document should look like this. 
 </html>
 ```
 
-# CSS
+# CSS (5 MINS)
 
 The ONLY way to learn CSS is by practicing and playing around with properties. CSS describes how our HTML elements look in the browser by targeting the HTML elements we created.
 
@@ -144,7 +151,7 @@ ul li:hover {
 
 ## FIN
 
-If you completed every step correctly, our CSS stylesheet should look like this. All of this code, should be in the **CSS** section in CodePen.
+Our CSS stylesheet should look like this. All of this code, should be in the **CSS** section in CodePen.
 
 ```css
 div {
