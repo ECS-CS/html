@@ -6,7 +6,7 @@
 2.  GIVE YOUR INSTRUCTOR YOUR ATTENTION
 3.  OPEN **CODEPEN.IO** AND SIGN IN
 4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Q4-CapstoneProject-W01D01.md**
-5.  YOU SHOULD HAVE TWO TABS OPENED
+5.  YOU SHOULD ALWAYS HAVE TWO TABS OPENED
 
 # STRUCTURE OF THE 4TH QUARTER
 
@@ -19,7 +19,7 @@
 
 ## STEP 1:
 
-A couple weeks ago, we learned that every webpage has this structure. Let's type this in the **HTML section** in CodePen.
+A couple weeks ago, we learned that every webpage has this structure. Let's type this in the **HTML section in CodePen.**
 
 ```html
 <html>
@@ -66,7 +66,7 @@ After the closing `</div>` tag but before the closing `</header>` tag we created
 
 ## FIN
 
-If you completed every step correctly, our HTML document should look like this. All of this code, should be in the **HTML** section in CodePen.
+If you completed every step correctly, our HTML document should look like this. All of this code, should be in the **HTML section in CodePen**.
 
 ```html
 <html>
@@ -97,8 +97,6 @@ The ONLY way to learn CSS is by practicing and playing around with properties. C
 
 We are styling the `<div>` element by giving it a background-image, height, font-size, and a font color.
 
-We will **target** the `<div>` we created in Step 2 of HTML by doing the following:
-
 **Now, lets right click on this link and open in a new tab:**
 
 🚨 https://www.w3schools.com/cssref/
@@ -122,7 +120,7 @@ div {
 
 ## STEP 2
 
-Copy and Paste the remaining CSS into the CSS section of CodePen. (AFTER what you had before)
+Copy and Paste the remaining CSS into the CSS section of CodePen. **(AFTER what you had before)**
 
 In this segment, we are targeting the `<nav>`, `<ul>`, and `<li>` tags and adding styles to them.
 
@@ -157,7 +155,7 @@ ul li:hover {
 
 ## FIN
 
-Our CSS stylesheet should look like this. All of this code, should be in the **CSS** section in CodePen.
+Our CSS stylesheet should look like this. All of this code, should be in the **CSS section in CodePen**.
 
 ```css
 div {
@@ -201,11 +199,11 @@ ul li:hover {
 
 # 🚨🚨 DELIVERABLE 🚨🚨
 
-To receive full credit for this part of your Capstone Project, you will have to do the following:
+## To receive full credit for this part of your Capstone Project, you will have to do the following:
 
 ## HTML CHANGES
 
-(These changes will be in the **HTML section of CodePen**)
+(These changes will be made in the **HTML section of CodePen**)
 
 1.  Update the Header image. Using google, find your own header image (Remember you need the **Image Address**). You can change the **height** of the div to fit your image.
 2.  Update the title of your webpage (the text between `<title></title>` tags).
@@ -213,7 +211,7 @@ To receive full credit for this part of your Capstone Project, you will have to 
 
 ## CSS CHANGES
 
-(These changes will be in the **CSS section of CodePen**)
+(These changes will be made in the **CSS section of CodePen**)
 
 4.  Change the 'font-size' of the `<div>`.
 5.  Change the background color of the `<nav>` element.
@@ -221,16 +219,21 @@ To receive full credit for this part of your Capstone Project, you will have to 
 
 # FINISHED CODE
 
-If for any reason you loss your code, or came late to class, here is what you should have after finishing the lesson:
+If for any reason you lose your code, or came late to class, absent or (anything else you can think of that kept you from completing this lesson), you can **FORK** this pen to create a copy to your account.
+
+Any other words, this is your **starting point** before you complete your deliverables above.
 
 ## https://codepen.io/GainorB/pen/yjqNoy
 
+
 # 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨
+
 
 # LEARNING RESOURCES
 
 1.  Learn HTML: https://www.w3schools.com/html/default.asp
 2.  Learn CSS: https://www.w3schools.com/css/default.asp
+
 
 # EXTENDED CLASS HOURS
 
