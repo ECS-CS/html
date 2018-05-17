@@ -90,8 +90,13 @@ Let's copy and paste the code below in the CSS section of CodePen below what we 
 1. You must embed (insert), your capstone project into the left column (Column #1).
 2. You must then insert `<p></p>` tags into the right column (Column #2).
 3. Inside the `<p></p>` tags describe your Scratch Progect.
+4. Insert a header tag ABOVE the `<p></p>` tags you created and insert text between them. (ex: `<h1></h1>`)
 
 ## CSS CHANGES
+
+5. Target the `<p></p>` tags you created in #2, and style them: Change the font size, color, font-weight, text-align, etc..
+6. Target the header tag you created in #4 and style it.
+
 
 (These changes will be made in the **CSS section of CodePen**)
 
