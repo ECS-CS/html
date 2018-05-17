@@ -4,11 +4,17 @@
 
 1.  BE QUIET
 2.  GIVE YOUR INSTRUCTOR YOUR ATTENTION
-3.  OPEN **CODEPEN.IO** AND SIGN IN, AND OPEN YOUR CAPSTONE PROJECT
-4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Q4-CapstoneProject-W01D02.md**
+3.  OPEN **CODEPEN.IO** AND SIGN IN
+4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Y1-Q4-Capstone** THEN **Week1Day2.md**
 5.  YOU SHOULD ALWAYS HAVE AT LEAST TWO TABS OPENED
 
 # HOUSE KEEPING
+
+1.  After logging into CodePen, click the Avatar in the top right
+    ![Avatar](../assets/avatar.png)
+2.  Click **Settings**
+3.  In the bottom left, find, and uncheck "Auto Update Preview":
+    ![Settings](../assets/settings.png)
 
 # HTML (10 MINS)
 
@@ -62,13 +68,13 @@ We are going to embed our Scratch Capstone Project into our webpage.
 ## (ex: https://scratch.mit.edu/projects/[YOUR-PROJECT-ID]/)
 
 5.  Insert your **YOUR PROJECT** url into the box below:
-    ![Scratch](../assets/phos.png)
+    ![Project URL](../assets/phos.png)
 6.  Once the new page loads, **copy** the text in the box below:
-    ![Scratch](../assets/embedscratch.png)
+    ![Embed Scratch](../assets/embedscratch.png)
 7.  Go back to **CodePen** and replace the "Column 1" text with the script tags you copied.
-    ![Scratch](../assets/first.png)
+    ![First](../assets/first.png)
 8.  After replacing "Column 1" your **CodePen** should look similar to this:
-    ![Scratch](../assets/second.png)
+    ![Second](../assets/second.png)
 
 # CSS (1 MIN)
 
