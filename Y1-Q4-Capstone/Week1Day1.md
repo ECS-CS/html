@@ -225,23 +225,21 @@ Any other words, this is your **starting point** before you complete your delive
 
 ## https://codepen.io/GainorB/pen/yjqNoy
 
-
 # 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨
-
 
 # LEARNING RESOURCES
 
 1.  Learn HTML: https://www.w3schools.com/html/default.asp
 2.  Learn CSS: https://www.w3schools.com/css/default.asp
 
-
 # EXTENDED CLASS HOURS
 
 ## If for any reason you need more time to work on an assignment, we are available to work with you directly during lunch or after school until 6PM.
 
 # MAC KEYBOARD SHORTCUTS
-1. CMD + C: copy
-2. CMD + V: paste
-3. CMD + X: cut
-4. CMD + A: select all
-5. CMD + Z: undo
+
+1.  CMD + C: copy
+2.  CMD + V: paste
+3.  CMD + X: cut
+4.  CMD + A: select all
+5.  CMD + Z: undo

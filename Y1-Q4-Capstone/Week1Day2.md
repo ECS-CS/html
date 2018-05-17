@@ -12,7 +12,9 @@
 
 ## STEP 1:
 
-Updating our original structure: Let's add a **class** with a value of **header** to the first div after the opening `<header>` tag, but **BEFORE** the opening `<nav>` tag.
+**Updating our previous HTML structure:**
+
+Let's add a **class** with a value of **header** to the first div, after the opening `<header>` tag, but **BEFORE** the opening `<nav>` tag.
 
 ```html
 <div class="header">Mr. Bostwick's Blog</div>
@@ -106,7 +108,7 @@ If for any reason you lose your code, or came late to class, absent or (anything
 
 Any other words, this is your **starting point** before you complete your deliverables above.
 
-## https://codepen.io/GainorB/
+## https://codepen.io/GainorB/pen/xjQPKZ
 
 
 # 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨

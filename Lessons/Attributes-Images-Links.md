@@ -92,3 +92,11 @@ Images can improve the design and the appearance of a web page. In HTML, images 
 
 1.  Full List of HTML Attributes: https://www.w3schools.com/tags/ref_attributes.asp
 2.  Learn HTML: https://www.w3schools.com/html/default.asp
+
+# MAC KEYBOARD SHORTCUTS
+
+1.  CMD + C: copy
+2.  CMD + V: paste
+3.  CMD + X: cut
+4.  CMD + A: select all
+5.  CMD + Z: undo

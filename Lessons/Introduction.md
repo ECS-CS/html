@@ -173,3 +173,11 @@ An ordered list with 4 items. Each item is contained in a <li></li>
 1.  Learn more about HTML Elements: https://www.w3schools.com/html/html_elements.asp
 2.  Learn HTML: https://www.w3schools.com/html/default.asp
 3.  Introduction to HTML: https://www.w3schools.com/html/html_intro.asp
+
+# MAC KEYBOARD SHORTCUTS
+
+1.  CMD + C: copy
+2.  CMD + V: paste
+3.  CMD + X: cut
+4.  CMD + A: select all
+5.  CMD + Z: undo
