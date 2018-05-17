@@ -6,7 +6,7 @@
 2.  GIVE YOUR INSTRUCTOR YOUR ATTENTION
 3.  OPEN **CODEPEN.IO** AND SIGN IN
 4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Q4-CapstoneProject-W01D01.md**
-5.  YOU SHOULD ALWAYS HAVE TWO TABS OPENED
+5.  YOU SHOULD ALWAYS HAVE AT LEAST TWO TABS OPENED
 
 # STRUCTURE OF THE 4TH QUARTER
 
@@ -215,7 +215,7 @@ ul li:hover {
 
 4.  Change the 'font-size' of the `<div>`.
 5.  Change the background color of the `<nav>` element.
-6.  Change the :hover color of navbar. **(HINT: look at ul li:hover {})**
+6.  Change the :hover color of navbar. **(HINT: look for the ul li:hover {} element)**
 
 # FINISHED CODE
 
@@ -238,3 +238,10 @@ Any other words, this is your **starting point** before you complete your delive
 # EXTENDED CLASS HOURS
 
 ## If for any reason you need more time to work on an assignment, we are available to work with you directly during lunch or after school until 6PM.
+
+# MAC KEYBOARD SHORTCUTS
+1. CMD + C: copy
+2. CMD + V: paste
+3. CMD + X: cut
+4. CMD + A: select all
+5. CMD + Z: undo
