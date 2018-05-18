@@ -11,10 +11,13 @@
 # HOUSE KEEPING
 
 1.  After logging into CodePen, click the Avatar in the top right
+
     ![Avatar](../assets/avatar.png)
+
 2.  Click **Settings**
 3.  In the bottom left, find, and uncheck "Auto Update Preview":
     ![Settings](../assets/settings.png)
+4.  With this setting turned off, in order to view changes to our code in CodePen we have to click **RUN**.
 
 # HTML (10 MINS)
 
@@ -132,7 +135,7 @@ Any other words, this is your **starting point** before you complete your delive
 
 ## https://codepen.io/GainorB/pen/xjQPKZ
 
-# 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨
+## 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨
 
 # LEARNING RESOURCES
 
