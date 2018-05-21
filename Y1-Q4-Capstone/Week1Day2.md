@@ -8,6 +8,14 @@
 4.  OPEN **https://github.com/ECS-CS/html** IN ANOTHER TAB THEN CLICK **Y1-Q4-Capstone** THEN **Week1Day2.md**
 5.  YOU SHOULD ALWAYS HAVE AT LEAST TWO TABS OPENED
 
+# FORKING
+
+1.  After logging into CodePen
+2.  Click the profile icon in the top right and go to **Your Profile**
+3.  Click your Capstone Project, rename it to **CAPSTONE PROJECT** (ALL CAPS)
+4.  Then, **FORK** this project and rename the new version to **CAPSTONE PROJECT 2** (ALL CAPS)
+5.  The reason we do this is to ALWAYS have a fresh copy of our previous work just incase we make a mistake.
+
 # HOUSE KEEPING
 
 1.  After logging into CodePen, click the Avatar in the top right
