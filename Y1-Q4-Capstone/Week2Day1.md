@@ -27,13 +27,54 @@
 
 # HTML (10 MINS)
 
+The time you been waiting for. We will make functional navigational links.
+
+We will be focusing on this section:
+
+```html
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>About</li>
+      <li>Projects</li>
+      <li>Contact Me</li>
+    </ul>
+  </nav>
+```
+
 ## STEP 1:
+
+Each `<li>.....</li>` element has to be updated to include anchor tags, that link somewhere. We will make our links pull our attention to a different part of our webpage.
+
+```html
+<li>Home</li>
+```
 
 ## STEP 2:
 
+Using the example above, lets surround the **Home** text with `<a></a>` tags.
+
+For example:
+
+```html
+<li><a>Home</a></li>
+```
+
 ## STEP 3:
 
-# CSS (1 MIN)
+Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**.
+
+```html
+<li><a href="#home">Home</a></li>
+```
+
+## STEP 4:
+
+We've successfully added our first link to our nav bar. **BUT** this link doesn't go anywhere. We need to create a new HTML element for it to navigate to.
+
+```html
+<div id="home">My Content Goes Here</div>
+```
 
 ## STEP 1:
 
