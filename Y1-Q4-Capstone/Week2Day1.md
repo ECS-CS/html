@@ -18,14 +18,12 @@
 
 # HOUSE KEEPING
 
-1.  After logging into CodePen, click the Avatar in the top right
-
-    ![Avatar](../assets/avatar.png)
-
-2.  Click **Settings**
-3.  In the bottom left, find, and uncheck "Auto Update Preview":
+1.  After opening **CAPSTONE PROJECT 3**
+2.  Click **Settings**, in the toolbar
     ![Settings](../assets/settings.png)
-4.  With this setting turned off, in order to view changes to our code in CodePen we have to click **RUN**.
+3.  Click **Behavior** and then in **"Auto-Updating Preview"** section:
+    ![Behavior](../assets/disabled.png)
+4.  Uncheck **"Auto-Updating Preview"**
 
 # HTML (10 MINS)
 
