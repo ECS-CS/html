@@ -46,13 +46,15 @@ We will be focusing on this section:
 
 Each `<li>.....</li>` element has to be updated to include anchor tags. We will make our links pull our attention to a different part of our webpage.
 
+We will work with this element specifically:
+
 ```html
 <li>Home</li>
 ```
 
 ## STEP 2:
 
-Using the example above, lets surround the **Home** text with `<a></a>` tags.
+Using the element above, lets surround the **Home** text with `<a></a>` tags.
 
 Example:
 
@@ -62,9 +64,11 @@ Example:
 
 ## STEP 3:
 
-Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**................href.
+Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**................**href**.
 
 Let's add the **href** attribute to our anchor tag, and give it a value of **#head**:
+
+Example:
 
 ```html
 <li><a href="#home">Home</a></li>
@@ -100,8 +104,8 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 
 (These changes will be made in the **CSS section of CodePen**)
 
-4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags you created in Step 2. Add **'class="myHome"'** to the opening `<p>`
-5.  Target `.myHome` class you just created and style it.
+4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags you created in Step 2. Add **class="myHome"** to the opening `<p>` tag.
+5.  Target the `.myHome` class you just created in Step 4 and style it.
 
 # FINISHED CODE
 
