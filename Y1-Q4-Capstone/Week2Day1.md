@@ -44,7 +44,7 @@ We will be focusing on this section:
 
 ## STEP 1:
 
-Each `<li>.....</li>` element has to be updated to include anchor tags, that link somewhere. We will make our links pull our attention to a different part of our webpage.
+Each `<li>.....</li>` element has to be updated to include anchor tags. We will make our links pull our attention to a different part of our webpage.
 
 ```html
 <li>Home</li>
@@ -54,7 +54,7 @@ Each `<li>.....</li>` element has to be updated to include anchor tags, that lin
 
 Using the example above, lets surround the **Home** text with `<a></a>` tags.
 
-For example:
+Example:
 
 ```html
 <li><a>Home</a></li>
@@ -62,7 +62,9 @@ For example:
 
 ## STEP 3:
 
-Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**.
+Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**................href.
+
+Let's add the **href** attribute to our anchor tag, and give it a value of **#head**:
 
 ```html
 <li><a href="#home">Home</a></li>
@@ -72,9 +74,13 @@ Does anyone remember the HTML attribute that is **required** in all anchor tags?
 
 We've successfully added our first link to our nav bar. **BUT** this link doesn't go anywhere. We need to create a new HTML element for it to navigate to.
 
+Here is our new element:
+
 ```html
 <div id="home">My Content Goes Here</div>
 ```
+
+Insert this element after the **LAST** closing `</div>` tag in the **HTML section in CodePen** BUT **before** the closing `</body>` tag.
 
 ## STEP 1:
 
@@ -86,13 +92,16 @@ We've successfully added our first link to our nav bar. **BUT** this link doesn'
 
 (These changes will be made in the **HTML section of CodePen**)
 
-1.  2.  3.
+1.  Using what we just learned, insert anchor tags for the rest of your navigational links.
+2.  Insert `<p></p>` tags around the content in the new HTML element we added above.
+3.  `<div id="home"><p>My Content Goes Here</p></div>` update 'My Content Goes Here' with your own content. Must be a minimum of 3 sentences, welcoming users to your webpage.
 
 ## CSS CHANGES
 
 (These changes will be made in the **CSS section of CodePen**)
 
-4.  5.  6.
+4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags you created in Step 2. Add **'class="myHome"'** to the opening `<p>`
+5.  Target `.myHome` class you just created and style it.
 
 # FINISHED CODE
 
