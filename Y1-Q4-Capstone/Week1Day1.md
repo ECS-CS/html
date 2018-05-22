@@ -215,7 +215,7 @@ ul li:hover {
 3.  Update the Header image. Using google, find your own header image (Remember you need the **Image Address**). You can change the **height** of the div to fit your image.
 4.  Change the 'font-size' of the `<div>`.
 5.  Change the background color of the `<nav>` element.
-6.  Change the :hover color of navbar. **(HINT: look for the ul li:hover {} element)**
+6.  Change the hover color of navbar. **(HINT: look for the `ul li:hover` attribute in CSS)**
 
 # FINISHED CODE
 
