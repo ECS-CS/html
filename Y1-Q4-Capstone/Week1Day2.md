@@ -21,9 +21,9 @@
 1.  After opening **CAPSTONE PROJECT 2**
 2.  Click **Settings**, in the toolbar
     ![Settings](../assets/settings.png)
-3.  Click **Behavior** and then in **"Auto-Updating Preview"** section:
+3.  Click **Behavior** and then in **Auto-Updating Preview** section:
     ![Behavior](../assets/disabled.png)
-4.  Uncheck **"Auto-Updating Preview"**
+4.  Uncheck **ENABLED**
 
 # HTML (10 MINS)
 
@@ -137,7 +137,7 @@ Let's copy and paste the code below in the CSS section of CodePen below what we 
 
 If for any reason you lose your code, or came late to class, absent or (anything else you can think of that kept you from completing this lesson), you can **FORK** this pen to create a copy to your account.
 
-Any other words, this is your **starting point** before you complete your deliverables above.
+Any other words, this is your **starting point** before you complete your deliverables.
 
 ## https://codepen.io/GainorB/pen/xjQPKZ
 

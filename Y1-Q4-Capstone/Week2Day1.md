@@ -21,9 +21,9 @@
 1.  After opening **CAPSTONE PROJECT 3**
 2.  Click **Settings**, in the toolbar
     ![Settings](../assets/settings.png)
-3.  Click **Behavior** and then in **"Auto-Updating Preview"** section:
+3.  Click **Behavior** and then in **Auto-Updating Preview** section:
     ![Behavior](../assets/disabled.png)
-4.  Uncheck **"Auto-Updating Preview"**
+4.  Uncheck **ENABLED**
 
 # HTML (10 MINS)
 
@@ -66,7 +66,7 @@ Example:
 
 Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**................**href**.
 
-Let's add the **href** attribute to our anchor tag, and give it a value of **#head**:
+Let's add the **href** attribute to our anchor tag, and give it a value of **#home**:
 
 Example:
 
@@ -78,15 +78,13 @@ Example:
 
 We've successfully added our first link to our nav bar. **BUT** this link doesn't go anywhere. We need to create a new HTML element for it to navigate to.
 
-Here is our new element:
+Our new element:
 
 ```html
 <div id="home">My Content Goes Here</div>
 ```
 
 Insert this element after the **LAST** closing `</div>` tag in the **HTML section in CodePen** BUT **before** the closing `</body>` tag.
-
-## STEP 1:
 
 # 🚨🚨 DELIVERABLE 🚨🚨
 
@@ -96,24 +94,32 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 
 (These changes will be made in the **HTML section of CodePen**)
 
-1.  Using what we just learned, insert anchor tags for the rest of your navigational links.
-2.  Insert `<p></p>` tags around the content in the new HTML element we added above.
-3.  `<div id="home"><p>My Content Goes Here</p></div>` update 'My Content Goes Here' with your own content. Must be a minimum of 3 sentences, welcoming users to your webpage.
+1.  Insert anchor tags for the rest of your navigational links.
+
+**Questions 2-4 are about this element:**
+
+```html
+<div id="home">My Content Goes Here</div>
+```
+
+2.  Insert `<p></p>` tags around the **CONTENT** in the new HTML element we added above.
+3.  Update 'My Content Goes Here' with your own content. Must be a minimum of 3 sentences, welcoming users to your webpage.
+4.  Add a class to the above element.
 
 ## CSS CHANGES
 
 (These changes will be made in the **CSS section of CodePen**)
 
-4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags you created in Step 2. Add **class="myHome"** to the opening `<p>` tag.
-5.  Target the `.myHome` class you just created in Step 4 and style it.
+5.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags. Add **class="myHome"** to the opening `<p>` tag.
+6.  Target the `.myHome` class you just created and style it.
 
 # FINISHED CODE
 
 If for any reason you lose your code, or came late to class, absent or (anything else you can think of that kept you from completing this lesson), you can **FORK** this pen to create a copy to your account.
 
-Any other words, this is your **starting point** before you complete your deliverables above.
+Any other words, this is your **starting point** before you complete your deliverables.
 
-##
+## https://codepen.io/GainorB/pen/MGRYQW
 
 ## 🚨 MAKE SURE YOU SAVE AND SIGN OUT 🚨
 
