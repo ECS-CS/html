@@ -86,7 +86,7 @@ Our new element:
 
 Insert this element after the **LAST** closing `</div>` tag in the **HTML section in CodePen** BUT **before** the closing `</body>` tag.
 
-# 🚨🚨 DELIVERABLE 🚨🚨
+# 🚨🚨 HOMEWORK 🚨🚨
 
 ## To receive full credit for this part of your Capstone Project, you will have to do the following:
 

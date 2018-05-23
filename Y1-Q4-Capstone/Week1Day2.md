@@ -113,7 +113,7 @@ Let's copy and paste the code below in the CSS section of CodePen below what we 
 }
 ```
 
-# 🚨🚨 DELIVERABLE 🚨🚨
+# 🚨🚨 HOMEWORK 🚨🚨
 
 ## To receive full credit for this part of your Capstone Project, you will have to do the following:
 

@@ -197,7 +197,7 @@ ul li:hover {
 }
 ```
 
-# 🚨🚨 DELIVERABLE 🚨🚨
+# 🚨🚨 HOMEWORK 🚨🚨
 
 ## To receive full credit for this part of your Capstone Project, you will have to do the following:
 
