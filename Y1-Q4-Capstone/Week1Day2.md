@@ -121,8 +121,8 @@ Let's copy and paste the code below in the CSS section of CodePen below what we 
 
 (These changes will be made in the **HTML section of CodePen**)
 
-1.  Embed your capstone project into the left column (Column #1).
-2.  Insert `<p></p>` tags into the right column (Column #2).
+1.  Insert your capstone project into the left column (Column #1).
+2.  Insert `<p></p>` tags into the right column, replacing "Column 2".
 3.  Inside the `<p></p>` tags describe your Scratch Project. (Minimum of 3 sentences)
 4.  Insert a header tag **ABOVE** the `<p></p>` tags you created and insert text between them. (ex: `<h1></h1>` or `<h2></h2>`).
 
