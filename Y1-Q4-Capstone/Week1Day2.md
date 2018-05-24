@@ -130,7 +130,7 @@ Let's copy and paste the code below in the CSS section of CodePen below what we 
 
 (These changes will be made in the **CSS section of CodePen**)
 
-5.  Target the `<p>` tag you created in #2, and style it. (ex: Change the font size, color, font-weight, text-align, etc..)
+5.  Target the `<p>` tag you created in #2, and style it. (ex: Change the font-size, color, font-weight, text-align, etc..)
 6.  Target the header tag you created in #4 and style it.
 
 # FINISHED CODE
