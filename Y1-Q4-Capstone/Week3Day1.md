@@ -95,7 +95,7 @@ Insert all 3 elements back-to-back, after the element we added last class:
 <div id="contactme">My Content Goes Here</div>
 ```
 
-# CSS (1 MINS)
+# CSS (1 MIN)
 
 We are going to style the sections we created above using the code below.
 
@@ -106,7 +106,7 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
 #about,
 #projects,
 #contactme {
-  height: 300px;
+  height: auto;
   border: 1px solid black;
   margin-top: 20px;
   padding: 30px;

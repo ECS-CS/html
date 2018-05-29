@@ -105,13 +105,15 @@ Let's copy and paste the code below in the CSS section of CodePen below what we 
 
 .col1,
 .col2 {
-  height: 400px;
+  height: auto;
   border: 1px solid black;
   text-align: center;
   padding: 10px;
   overflow: hidden;
 }
 ```
+
+**NOTE**: We add borders to give us a visual cue indicating how our content is split up. You are more then welcome to remove any border or change the color or style of them!
 
 # 🚨🚨 HOMEWORK 🚨🚨
 
