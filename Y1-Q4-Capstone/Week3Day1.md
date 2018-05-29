@@ -106,7 +106,6 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
 #about,
 #projects,
 #contactme {
-  width: 100%;
   height: 300px;
   border: 1px solid black;
   margin-top: 20px;
