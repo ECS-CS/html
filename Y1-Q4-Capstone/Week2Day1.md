@@ -122,6 +122,7 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 
 ```css
 .myHome {
+  .......;
 }
 ```
 

@@ -124,8 +124,8 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
 
 (These changes will be made in the **HTML section of CodePen**)
 
-1.  Insert `<p></p>` tags around the **CONTENT** in the new HTML elements we added above.
-2.  Update 'My Content Goes Here' with your own content. Must be a minimum of 3 sentences.
+1.  Insert `<p></p>` tags around **My Content Goes Here** in the new HTML elements we added above.
+2.  Change **My Content Goes Here'**. Must be a minimum of 3 sentences, or it can be an image/video, etc..
 3.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags.
 
 **HINT:**
@@ -151,6 +151,14 @@ We added 3 elements together in class, so now you have to target **EACH** elemen
 4.  Target the class you added above, and style it. (ex: font-size, font-weight, color, text-align, etc..)
 5.  Target the class you added above, and style it. (ex: font-size, font-weight, color, text-align, etc..)
 6.  Target the class you added above, and style it. (ex: font-size, font-weight, color, text-align, etc..)
+
+**HINT:**
+
+```css
+.NameOfElementYouAreTargetting {
+  ...;
+}
+```
 
 # FINISHED CODE
 
