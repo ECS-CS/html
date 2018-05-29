@@ -111,6 +111,16 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
   margin-top: 20px;
   padding: 30px;
 }
+
+/* MAKE OUR IMAGES FILL THE CONTAINER */
+
+#home img,
+#about img,
+#projects img,
+#contactme img {
+  width: 100%;
+  height: 100%;
+}
 ```
 
 **NOTE**: We add borders to give us a visual cue indicating how our content is split up. You are more then welcome to remove any border or change the color or style of them!
