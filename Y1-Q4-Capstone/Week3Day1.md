@@ -146,7 +146,7 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
 
 (These changes will be made in the **CSS section of CodePen**)
 
-**We added 3 elements together in class, so now you have to target **EACH** element individually and STYLE it.**
+We added 3 elements together in class, so now you have to target **EACH** element individually and STYLE it.
 
 4.  Target the class you added above, and style it. (ex: font-size, font-weight, color, text-align, etc..)
 5.  Target the class you added above, and style it. (ex: font-size, font-weight, color, text-align, etc..)

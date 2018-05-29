@@ -102,8 +102,8 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 <div id="home">My Content Goes Here</div>
 ```
 
-2.  Insert `<p></p>` tags around the **CONTENT** in the new HTML element we added above.
-3.  Update 'My Content Goes Here' with your own content. Must be a minimum of 3 sentences, welcoming users to your webpage.
+2.  Insert `<p></p>` tags around **My Content Goes Here** in the HTML element we added above.
+3.  Change **My Content Goes Here**. Must be a minimum of 3 sentences, welcoming users to your webpage.
 4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags. Add **class="myHome"** to the opening `<p>` tag.
 
 **HINT:**
@@ -117,6 +117,13 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 (These changes will be made in the **CSS section of CodePen**)
 
 5.  Target the `.myHome` class you just created and style it. (ex: font-size, font-weight, color, text-align, etc..)
+
+**HINT:**
+
+```css
+.myHome {
+}
+```
 
 # FINISHED CODE
 
