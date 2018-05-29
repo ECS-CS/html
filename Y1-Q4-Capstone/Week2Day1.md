@@ -27,9 +27,9 @@
 
 # HTML (10 MINS)
 
-The time you been waiting for. We will make functional navigational links.
+## Functional Navigational Links
 
-We will be focusing on this section:
+Today's lesson will focus on this section:
 
 ```html
   <nav>
@@ -64,7 +64,7 @@ Example:
 
 ## STEP 3:
 
-Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**................**href**.
+Does anyone remember the HTML attribute that is **required** in all anchor tags? Starts with **h** and ends with **f**..................**href**.
 
 Let's add the **href** attribute to our anchor tag, and give it a value of **#home**:
 
@@ -106,11 +106,17 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 3.  Update 'My Content Goes Here' with your own content. Must be a minimum of 3 sentences, welcoming users to your webpage.
 4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags. Add **class="myHome"** to the opening `<p>` tag.
 
+**HINT:**
+
+```html
+<div id="home"><p class="....">My Content Goes Here</p></div>
+```
+
 ## CSS CHANGES
 
 (These changes will be made in the **CSS section of CodePen**)
 
-5.  Target the `.myHome` class you just created and style it. (ex: font-size, font-weight,color, text-align)
+5.  Target the `.myHome` class you just created and style it. (ex: font-size, font-weight, color, text-align, etc..)
 
 # FINISHED CODE
 
