@@ -95,7 +95,9 @@ Insert all 3 elements back-to-back, after the element we added last class:
 <div id="contactme">My Content Goes Here</div>
 ```
 
-# CSS (1 MIN)
+# CSS (2 MINS)
+
+## STEP 1:
 
 We are going to style the sections we created above using the code below.
 
@@ -125,6 +127,22 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
 
 **NOTE**: We add borders to give us a visual cue indicating how our content is split up. You are more then welcome to remove any border or change the color or style of them!
 
+## STEP 2:
+
+You're probably annoyed with the ugly blue links and underline on your links in your navigational menu.
+
+The CSS below will fix this for you. You can change the color of the links if you wish.
+
+```css
+a,
+a:active,
+a:visited,
+a:link {
+  color: black;
+  text-decoration: none;
+}
+```
+
 # 🚨🚨 HOMEWORK 🚨🚨
 
 ## To receive full credit for this part of your Capstone Project, you will have to do the following:
@@ -134,7 +152,8 @@ Let's copy and paste the code below in the **CSS section** of CodePen below what
 (These changes will be made in the **HTML section of CodePen**)
 
 1.  Insert `<p></p>` tags around **My Content Goes Here** in the new HTML elements we added above.
-2.  Change **My Content Goes Here'**. Must be a minimum of 3 sentences, or it can be an image/video, etc..
+2.  Change **My Content Goes Here**. Must be a minimum of 3 sentences, or it can be an image/video, etc..
+    **NOTE:** You can **ONLY** add 1 image or 1 video, you must have a minimum of 2 `<p></p>` elements.
 3.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags.
 
 **HINT:**
