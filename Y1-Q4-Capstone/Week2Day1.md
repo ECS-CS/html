@@ -49,17 +49,17 @@ Each `<li>.....</li>` element has to be updated to include anchor tags. We will 
 We will work with this element specifically:
 
 ```html
-<li>Home</li>
+<li>About</li>
 ```
 
 ## STEP 2:
 
-Using the element above, lets surround the **Home** text with `<a></a>` tags.
+Using the element above, lets surround the **About** text with `<a></a>` tags.
 
 Example:
 
 ```html
-<li><a>Home</a></li>
+<li><a>About</a></li>
 ```
 
 ## STEP 3:
@@ -71,7 +71,7 @@ Let's add the **href** attribute to our anchor tag, and give it a value of **#ho
 Example:
 
 ```html
-<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
 ```
 
 ## STEP 4:
@@ -81,7 +81,7 @@ We've successfully added our first link to our nav bar. **BUT** this link doesn'
 Our new element:
 
 ```html
-<div id="home">My Content Goes Here</div>
+<div id="about">My Content Goes Here</div>
 ```
 
 Insert this element after the **LAST** closing `</div>` tag in the **HTML section in CodePen** BUT **before** the closing `</body>` tag.
@@ -99,29 +99,29 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 **Questions 2-4 are about this element:**
 
 ```html
-<div id="home">My Content Goes Here</div>
+<div id="about">My Content Goes Here</div>
 ```
 
 2.  Insert `<p></p>` tags around **My Content Goes Here** in the HTML element we added above.
 3.  Change **My Content Goes Here**. Must be a minimum of 3 sentences, welcoming users to your webpage.
-4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags. Add **class="myHome"** to the opening `<p>` tag.
+4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags. Add **class="myAbout"** to the opening `<p>` tag.
 
 **HINT:**
 
 ```html
-<div id="home"><p class="....">My Content Goes Here</p></div>
+<div id="about"><p class="....">My Content Goes Here</p></div>
 ```
 
 ## CSS CHANGES
 
 (These changes will be made in the **CSS section of CodePen**)
 
-5.  Target the `.myHome` class you just created and style it. (ex: font-size, font-weight, color, text-align, etc..)
+5.  Target the `.myAbout` class you just created and style it. (ex: font-size, font-weight, color, text-align, etc..)
 
 **HINT:**
 
 ```css
-.myHome {
+.myAbout {
   .......;
 }
 ```
