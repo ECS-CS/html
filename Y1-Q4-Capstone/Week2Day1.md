@@ -86,6 +86,24 @@ Our new element:
 
 Insert this element after the **LAST** closing `</div>` tag in the **HTML section in CodePen** BUT **before** the closing `</body>` tag.
 
+# CSS (1 MIN)
+
+## STEP 1:
+
+You're probably annoyed with the ugly blue links and underline on your links in your navigational menu.
+
+The CSS below will fix this for you. You can change the color of the links if you wish.
+
+```css
+a,
+a:active,
+a:visited,
+a:link {
+  color: black;
+  text-decoration: none;
+}
+```
+
 # 🚨🚨 HOMEWORK 🚨🚨
 
 ## To receive full credit for this part of your Capstone Project, you will have to do the following:
