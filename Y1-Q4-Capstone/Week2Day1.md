@@ -103,7 +103,7 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 ```
 
 2.  Insert `<p></p>` tags around **My Content Goes Here** in the HTML element we added above.
-3.  Change **My Content Goes Here**. Must be a minimum of 3 sentences, welcoming users to your webpage.
+3.  Change **My Content Goes Here**. This section describes your webpage to your users. Be descriptive and warm: Include text, pictures, videos, etc..
 4.  You probably noticed the `<p></p>` tags you added, are already styled. Let's add a class to the `<p></p>` tags. Add **class="myAbout"** to the opening `<p>` tag.
 
 **HINT:**
