@@ -18,9 +18,7 @@
 
 # HTML (5 MINS)
 
-Today's lesson is about the LAST section on our webpage, the Footer.
-
-The Footer is the very last section on EVERY webpage. Usually, in this section you find copyright information, an additional navigational menu that your users can use, or a contact form.
+The Footer is the very last section on EVERY webpage. Usually, in this section you find copyright information, an additional navigational menu that your users can use, or a contact form, etc...
 
 In HTML5 there is a special element designed for Footers:
 
@@ -34,6 +32,18 @@ Insert this element after the **LAST** closing `</div>` tag in the **HTML sectio
 
 ```html
 <footer>My Footer</footer>
+```
+
+## EXAMPLE:
+
+An Example of a Footer element:
+
+```html
+<footer>
+  <p>Website created by: Mr. Bostwick</p>
+  <p>Contact information: <a href="mailto:mrbostwick@bostwick.com">
+  mrbostwick@bostwick.com</a>.</p>
+</footer>
 ```
 
 # CSS (2 MINS)
@@ -85,6 +95,14 @@ footer {
 
 **NOTE**: We add borders to give us a visual cue indicating how our content is split up. You are more then welcome to remove any border or change the color or style of them!
 
+# LAST CAPSTONE LESSON
+
+If you attended every class AND finished every lesson your website should have this general layout:
+
+## https://codepen.io/GainorB/full/bKdpww/
+
+Additionally, this is how your website should look without completing any homework assignments. In other words, if your website is still bare like this example means you haven't completed your homework assignments. Every week, we added to our websites to make it look more unique.
+
 # 🚨🚨 HOMEWORK 🚨🚨
 
 ## To receive full credit for this part of your Capstone Project, you will have to do the following:
@@ -93,13 +111,20 @@ footer {
 
 (These changes will be made in the **HTML section of CodePen**)
 
-1.  2.  3.
+1.  Add content to the `<footer></footer>` element you created
 
 ## CSS CHANGES
 
 (These changes will be made in the **CSS section of CodePen**)
 
-4.  5.  6.
+2.  Add styles to your Footer element by targeting it with CSS.
+
+**HINT:**
+
+```css
+footer {
+}
+```
 
 # FINISHED CODE
 
