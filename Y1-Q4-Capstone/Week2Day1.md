@@ -94,6 +94,8 @@ You're probably annoyed with the ugly blue links and underline on your links in 
 
 The CSS below will fix this for you. You can change the color of the links if you wish.
 
+**Paste the below CSS into the bottom of your CSS section.**
+
 ```css
 a,
 a:active,
