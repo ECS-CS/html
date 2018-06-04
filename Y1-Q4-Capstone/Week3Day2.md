@@ -12,8 +12,8 @@
 
 1.  After logging into CodePen
 2.  Click the profile icon in the top right and go to **Your Profile**
-3.  Click **CAPSTONE PROJECT 3**
-4.  Then, **FORK** this project and rename the new version to **CAPSTONE PROJECT 4** (ALL CAPS)
+3.  Click **CAPSTONE PROJECT 4**
+4.  Then, **FORK** this project and rename the new version to **CAPSTONE PROJECT 5** (ALL CAPS)
 5.  The reason we do this is to ALWAYS have a fresh copy of our previous work just incase we make a mistake.
 
 # HTML (5 MINS)
