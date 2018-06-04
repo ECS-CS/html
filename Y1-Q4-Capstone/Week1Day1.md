@@ -221,7 +221,7 @@ ul li:hover {
 
 If for any reason you lose your code, or came late to class, absent or (anything else you can think of that kept you from completing this lesson), you can **FORK** this pen to create a copy to your account.
 
-Any other words, this is your **starting point** before you complete your deliverables.
+In other words, this is your **starting point** before you complete your deliverables.
 
 ## https://codepen.io/GainorB/pen/QrVpxQ
 
